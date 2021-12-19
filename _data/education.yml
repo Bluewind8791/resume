@@ -1,13 +1,13 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
-  awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Smart Farm Developer Training Course
+  uni: 대신기술능력개발원
+  year: 2021
+  award: 
+  summary: C Language, Python, My-SQL, Network, Arduino 등을 배울 수 있었으며, 개발자로 전향하게 된 계기가 되었습니다.
+
+- degree: Economics and Trade
+  uni: Shanghai Jiaotong University
+  year: 2010 &mdash; 2016
+  awards:
+  summary: 
