@@ -88,6 +88,20 @@
   font-weight: 700;
 }
 
+@mixin sans_kr {
+  font-family: 'Noto Sans KR';
+  src: url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap') format('opentype');
+  unicode-range: U+AC00-D7AF;
+}
+
+// @font-face {
+//   font-family: 'Noto Sans KR';
+//   src: url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap') format('opentype');
+//   unicode-range: U+AC00-D7AF;   //한글에 해당하는 유니코드
+//   font-style: normal;
+//   font-weight: normal;
+// }
+
 
 // layout
 
@@ -102,3 +116,4 @@
   border-bottom: 1px solid #c7c7c7;
   padding: .2rem 0 .2rem;
 }
+

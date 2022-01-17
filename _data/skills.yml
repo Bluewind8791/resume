@@ -1,12 +1,13 @@
 # Skills
 
 - skill: Java
-  description:
+  description: 
 
 - skill: Spring Framework
-  description: REST API, JPA를 활용하여 백엔드 개발방법을 학습하고있습니다.
+  description: REST API, JPA, Spring Security 를 활용한 백엔드 개발 방법을 학습하고 있습니다.
 
 - skill: C Language
-  description: 첫번째로 배운 Programming Language 입니다.
+  description: 
 
 - skill: Python
+  description: 

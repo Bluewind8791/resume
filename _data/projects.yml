@@ -8,8 +8,14 @@
   url: "https://github.com/Bluewind8791/Snake_Game"
   description: C 언어를 공부 할 때, C 언어에 대한 전반적인 이해를 높히기 위하여 toy project로 만들었던 게임입니다.
 
+- project: Blog
+  role: Toy Project
+  duration: 2022
+  url: "https://github.com/Bluewind8791/blog_spring_boot"
+  description: Spring Boot 와 Spring Security 를 활용하여 간단한 블로그를 만들었습니다.
+
 - project: 가공식품 평가 서비스 (구상중)
   role: Toy Project
-  duration: 2022 &mdash; Present
+  duration: Future &mdash;
   # url: "#"
   description: 애용하는 서비스인 "왓챠피디아"에서 영감을 받아 편의점 및 마트에서 쉽게 구할 수 있는 가공식품들을 나열하고 평가하고 리뷰할 수 있는 서비스를 구상하고 있습니다. 이후에는 알고리즘을 사용하여 상품을 추천하는 기능을 구현하고 싶습니다.
