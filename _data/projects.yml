@@ -1,21 +1,25 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+- project: MUKCHA
+  role: 개인 프로젝트
+  duration: 2022 &mdash;
+  url: "https://github.com/Bluewind8791/mukcha"
+  description: 
+    <p>• 프렌차이즈 메뉴들을 사용자가 평가하고 리뷰할 수 있는 웹서비스 프로젝트입니다.</p>
+    <p>• 프론트엔드는 BootStrap 및 Thymeleaf 를 사용하여 간단하게 구현하였고, 백엔드는 Spring Boot, JPA, Security, OAuth2등의 기술을 사용하여 구현하였습니다.</p>
+    <p>• AWS EC2 서버를 사용하여 24시간 라이브 서비스를 제공하고, Travis CI 및 AWS CodeDeploy 를 사용하여 자동배포, NginX를 사용하여 무중단 배포를 간단하게 구현하였습니다.</p>
 
-- project: Snake Game
-  role: Toy Project
-  duration: 2021
-  url: "https://github.com/Bluewind8791/Snake_Game"
-  description: C 언어를 공부 할 때, C 언어에 대한 전반적인 이해를 높히기 위하여 toy project로 만들었던 게임입니다.
 
-- project: Blog
-  role: Toy Project
+- project: Spring Boot Blog
+  role: 개인 프로젝트
   duration: 2022
   url: "https://github.com/Bluewind8791/blog_spring_boot"
-  description: Spring Boot 와 Spring Security 를 활용하여 간단한 블로그를 만들었습니다.
+  description: Spring Boot 와 Spring Security 를 활용하여 만든 간단한 정적 블로그입니다.
 
-- project: 가공식품 평가 서비스 (구상중)
-  role: Toy Project
-  duration: Future &mdash;
-  # url: "#"
-  description: 애용하는 서비스인 "왓챠피디아"에서 영감을 받아 편의점 및 마트에서 쉽게 구할 수 있는 가공식품들을 나열하고 평가하고 리뷰할 수 있는 서비스를 구상하고 있습니다. 이후에는 알고리즘을 사용하여 상품을 추천하는 기능을 구현하고 싶습니다.
+
+- project: Snake Game
+  role: 개인 프로젝트
+  duration: 2021
+  url: "https://github.com/Bluewind8791/Snake_Game"
+  description: C 언어에 대한 전반적인 이해를 높히기 위하여 만든 toy project입니다.

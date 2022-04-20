@@ -3,10 +3,10 @@
 - skill: Java
   description: 
 
-- skill: Spring Framework
-  description: REST API, JPA, Spring Security 를 활용한 백엔드 개발 방법을 학습하고 있습니다.
+- skill: Spring Boot, JPA, Spring Security
+  description: 
 
-- skill: C Language
+- skill: AWS
   description: 
 
 - skill: Python
